@@ -19,3 +19,4 @@
 | 17     | Letter Combinations of a Phone Number          | <https://leetcode.com/problems/letter-combinations-of-a-phone-number>          |
 | 18     | 4Sum                                           | <https://leetcode.com/problems/4sum/>                                          |
 | 19     | Remove Nth Node From End of List               | <https://leetcode.com/problems/remove-nth-node-from-end-of-list/>              |
+| 20     | Valid Parentheses                              | <https://leetcode.com/problems/valid-parentheses/>                             |
